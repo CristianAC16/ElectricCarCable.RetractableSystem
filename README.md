@@ -1,7 +1,7 @@
 <h1> Electric Car Cable Retractable System </h1>
 
 <h2>Short Description</h2>
-Electric vehicles face infrastructure and vandalism challenges, with rising copper theft at charging stations. This project aims to create a cost-effective, theft-resistant EV charging station design to support growing demand and ensure reliability in public spaces.
+Electric vehicles face infrastructure and vandalism challenges, with rising copper theft at charging stations. This project aims to create a cost-effective, theft-resistant EV charging station design to support growing demand and ensure reliability in public spaces. Further improvement of the design shown below would have been to reduce the weight ideally by half.
 <br />
 <br />
 
@@ -15,6 +15,19 @@ Project Breakdown:
 6. Project Reflection (Written Report)
 
 <h2>CAD Design
+<h3>Representative Design</h3>
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/sT1m8Z4.png" height="80%" width="80%" alt="Final Design"/>
+<br/>Front View
+<br />
+
+  <p align="center">
+<img src="https://i.imgur.com/RHL06yd.png" height="80%" width="80%" alt="Final Design"/>
+<br/>Rear View
+<br />
+
 <h3>3D Views</h3>
 <br />
 
@@ -25,36 +38,54 @@ Project Breakdown:
 
 <p align="center">
 <img src="https://i.imgur.com/MykYvcB.png" height="80%" width="80%" alt="Final Design"/>
-<br/> Final Design
-<br />
-
-  <p align="center">
-<img src="https://i.imgur.com/hCR3mCQ.png" height="80%" width="80%" alt="Final Design"/>
-<br/> Final Design
+<br/> Inside components
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/sT1m8Z4.png" height="80%" width="80%" alt="Final Design"/>
-<br/> Representative Design Front View
+<img src="https://i.imgur.com/hCR3mCQ.png" height="80%" width="80%" alt="Final Design"/>
+<br/> Locking Mechanism: ±90° rotation from neutral
 <br />
 
-  <p align="center">
-<img src="https://i.imgur.com/RHL06yd.png" height="80%" width="80%" alt="Final Design"/>
-<br/> Representative Design Rear View
+<p align="center">
+<img src="https://i.imgur.com/LBD9ytV.png" height="80%" width="80%" alt="Final Design"/>
+<br/> Locking Mechanism: ±90° rotation from neutral
 <br />
+
+<h3>Finite Element Analysis</h3>
+<br /> 
 
 <p align="center">
 <img src="https://i.imgur.com/eZGK92l.png" height="80%" width="80%" alt="Final Design"/>
-<br/> Finite Element Analysis on Casing
+<br/> Casing [Stress]
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/rPcLnhd.png" height="80%" width="80%" alt="Final Design"/>
-<br/> Finite Element Analysis on Arms
+<img src="https://i.imgur.com/MmemgnP.png" height="80%" width="80%" alt="Final Design"/>
+<br/> Arms [Stress]
 <br />
-<!--
-<h3>6 Principle Views(first angle project)</h3>
+
 <p align="center">
-<img src="" height="80%" width="80%" alt="Final Design"/>
-<br/> 
+<img src="https://i.imgur.com/mNUY5Xo.png" height="80%" width="80%" alt="Final Design"/>
+<br/> Arms [Displacement]
+<br />
+
+<h3>Mass Property</h3>
+<br /> 
+
+<p align="center">
+<img src="https://i.imgur.com/VuTm2HN.png" height="80%" width="80%" alt="Final Design"/>
+<br/> Mass of Assembly
+<br />
+
+<h3>Engineering Drawings</h3>
+<br /> 
+
+<p align="center">
+<img src="https://i.imgur.com/fXeYoqv.png" height="80%" width="80%" alt="Final Design"/>
+<br/> Casing
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/ePzJZ40.png" height="80%" width="80%" alt="Final Design"/>
+<br/> Casing Arms
 <br />
