@@ -89,3 +89,7 @@ Project Breakdown:
 <img src="https://i.imgur.com/ePzJZ40.png" height="80%" width="80%" alt="Final Design"/>
 <br/> Casing Arms
 <br />
+
+<h2><a href="">Click for Full Project Report</a></h2>
+<br />
+<br />
