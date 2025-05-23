@@ -90,6 +90,6 @@ Project Breakdown:
 <br/> Casing Arms
 <br />
 
-<h2><a href="">Click for Full Project Report</a></h2>
+<h2><a href="https://github.com/CristianAC16/ElectricCarCable.RetractableSystem/blob/main/TTTD1_FinalReport_Appendix.pdf">Click for Full Project Report</a></h2>
 <br />
 <br />
